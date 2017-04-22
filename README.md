@@ -1,5 +1,5 @@
 # DQN
-Implementation of DQN and DDQN in Theano
+
 
 This is an implementation of the classic DQN algorithm using Theano. 
 
