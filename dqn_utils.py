@@ -1,3 +1,8 @@
+"""
+This part of the code is greatly inspired by Matthias Plappert's code. 
+Please check it out: https://github.com/matthiasplappert/keras-rl/tree/master/rl
+"""
+
 
 import numpy as np
 
