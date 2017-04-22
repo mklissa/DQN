@@ -28,8 +28,7 @@ Notice that the pickle files must be named after the game (i.e. breakout.pkl). Y
 
 <p align="center" size="width 150">
   <img src="https://github.com/mklissa/DQN/blob/master/results/pong.gif" width="150"/>
-</p>
-<p align="center" size="width 150">
+
   <img src="https://github.com/mklissa/DQN/blob/master/results/breakout.gif" width="150"/>
 </p>
 <p align="center" size="width 150">
