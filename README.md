@@ -21,7 +21,10 @@ To see it play:
 
 `python play.py --env [environment name]`
 
-Notice that the pickle files must be named after the game (i.e. breakout.pkl). You can also change that directly in the script.
+The pickle files must be named after the game (i.e. breakout.pkl). You can also change that directly in the script.
+As mentionned in this [blog](https://blog.openai.com/adversarial-example-research/) from OpenAI, DQN, as well as more recent algorithms, are subject to adversarial attacks. To see the effects on this implementation, choose:
+
+`python play.py --env [environment name] --adv 1`
 
 # Results
 
@@ -33,7 +36,6 @@ Notice that the pickle files must be named after the game (i.e. breakout.pkl). Y
 </p>
 <p align="center" size="width 150">
   <img src="https://github.com/mklissa/DQN/blob/master/results/space.gif" width="150"/>
-</p>
-<p align="center" size="width 150">
+
   <img src="https://github.com/mklissa/DQN/blob/master/results/boxing.gif" width="150"/>
 </p>
